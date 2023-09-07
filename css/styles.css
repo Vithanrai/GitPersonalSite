@@ -116,7 +116,7 @@ hr {
 }
 
 .parallax {
-  background-image: url("/images/iluvcoding.png");
+  background-image: url("../images/iluvcoding.png");
   height: 150px;
   background-attachment: fixed;
   background-position: center;
